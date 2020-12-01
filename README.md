@@ -1,5 +1,5 @@
 
-[easyMF: A Visual Analytics Platform for Matrix Factorization-based Biological Discovery from Large-scale Transcriptome Data](http://omicstudio.cloud:4002/)
+[## easyMF: A Visual Analytics Platform for Matrix Factorization-based Biological Discovery from Large-scale Transcriptome Data](http://omicstudio.cloud:4002/)
 
 [![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-rna-workbench/status "Docker Repository on Quay")](https://hub.docker.com/r/malab/easymf)
 
