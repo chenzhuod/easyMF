@@ -1,7 +1,7 @@
 
 [easyMF: A Visual Analytics Platform for Matrix Factorization-based Biological Discovery from Large-scale Transcriptome Data](http://omicstudio.cloud:4002/)
 
-[![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-rna-workbench/status "Docker Repository on Quay")](https://hub.docker.com/r/malab/tamf/)
+[![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-rna-workbench/status "Docker Repository on Quay")](https://hub.docker.com/r/malab/easymf)
 
 ## Introduction
 - easyMF is a user-friendly web platform that aims to facilitate biological discovery from large-scale transcriptome data through matrix factorization (MF). By integrating three major matrix factorization algorithms (PCA [principle component analysis]; ICA [independent component analysis]; NMF [non-negative matrix factorization]), easyMF enables users perform a series of analysis based on pattern matrix (PM) and amplitude matrix (AM). For metagene-based deep mining using PM, four sub-modules are implemented to perform **Clustering analysis**, **Temporal-spatial transcriptome analysis**, **Single-cell analysis**; For metagene-based deep mining using AM, **Functional gene discovery** and **Pathway activity analysis** are provided to perform gene function prediction, and active pathways, respectively. The easyMF project is hosted on GitHub (https://github.com/cma2015/easyMF) and can be accessed from (http://easymf.omicstudio.cloud/). 
@@ -26,8 +26,4 @@
 ## How to access help
 * If users encounter any bugs or issues, feel free to leave a message at Github [issues](<https://github.com/cma2015/issues>). We will try our best to deal with all issues as soon as possible.
 * In addition, if any suggestions are available, feel free to contact: __Wenlong Ma__ <mawenlong_nwsuaf@163.com> or __Siyuan Chen__ <chenzhuod@gmail.com> 
-
-
-
-
 
